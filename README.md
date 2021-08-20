@@ -1,0 +1,2 @@
+# robofriends
+npm install
